@@ -1,0 +1,3 @@
+demand: 814:6,6,5,:2,3,0,
+Average Delay: 2.0
+Runtime (mS): 16Acceptation rate: 1.0

@@ -1,0 +1,10 @@
+1Gurobi_out3.txt 7 5 10 0 -1.5 0 1.0 4
+1Gurobi_out1.txt 7 1 10 0 -0.25 0 0.5 1
+1Gurobi_out5.txt 7 9 10 0 -3.0 0 1.0000000000000002 7
+1Gurobi_out9.txt 7 19 10 0 -7.0 0 1.0 15
+1Gurobi_out6.txt 7 12 10 0 -4.5 0 1.0 10
+1Gurobi_out10.txt 7 20 10 0 -7.5 0 1.0 16
+1Gurobi_out2.txt 7 2 10 0 -0.25 0 0.5 1
+1Gurobi_out4.txt 7 7 10 0 -2.625 0 0.75 6
+1Gurobi_out8.txt 7 17 10 0 -6.5 0 1.0 14
+1Gurobi_out7.txt 7 15 10 0 -5.5 0 1.0 12

@@ -1,0 +1,6 @@
+2Alg1.txt 6 3 0.0
+2Alg1.txt 6 3 0.0
+2Alg1.txt 6 3 0.625
+2Alg1.txt 6 3 0.625
+2Alg1.txt 6 3 0.625
+2Alg1.txt 6 3 0.625
